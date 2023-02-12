@@ -1,4 +1,5 @@
 <h3>how to start the project</h3>
+<p>composer install</p>
 <p>php artisan migrate</p>
 <p>php artisan db:seed </p>
 <p>go to workbench and set the length of forean keys-uuid to char(255) /(products.user_id , user_roles.user_id , user_roles.role_id)</p>
